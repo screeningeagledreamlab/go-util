@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/blendlabs/go-assert"
+	"github.com/apremalal/go-assert"
 )
 
 func TestUnmarshalJSON(t *testing.T) {

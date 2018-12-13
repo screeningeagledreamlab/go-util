@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"io"
 
-	exception "github.com/blendlabs/go-exception"
+	exception "github.com/apremalal/go-exception"
 )
 
 // Crypto is a namespace for crypto related functions.

@@ -4,7 +4,7 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/blendlabs/go-assert"
+	"github.com/apremalal/go-assert"
 )
 
 func TestParallelAwait(t *testing.T) {

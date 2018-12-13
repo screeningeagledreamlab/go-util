@@ -3,7 +3,7 @@ package util
 import (
 	"testing"
 
-	assert "github.com/blendlabs/go-assert"
+	assert "github.com/apremalal/go-assert"
 )
 
 func TestMultiplyByElement(t *testing.T) {

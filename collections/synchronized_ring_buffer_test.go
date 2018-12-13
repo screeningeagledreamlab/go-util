@@ -3,7 +3,7 @@ package collections
 import (
 	"testing"
 
-	assert "github.com/blendlabs/go-assert"
+	assert "github.com/apremalal/go-assert"
 )
 
 func TestSynchronizedRingBuffer(t *testing.T) {

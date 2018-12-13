@@ -3,7 +3,7 @@ package collections
 import (
 	"testing"
 
-	"github.com/blendlabs/go-assert"
+	"github.com/apremalal/go-assert"
 )
 
 func TestConcurrentQueue(t *testing.T) {

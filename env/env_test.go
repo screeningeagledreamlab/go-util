@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	assert "github.com/blendlabs/go-assert"
-	util "github.com/blendlabs/go-util"
+	assert "github.com/apremalal/go-assert"
+	util "github.com/apremalal/go-util"
 )
 
 func TestNewVarsFromEnvironment(t *testing.T) {

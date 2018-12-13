@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	util "github.com/blendlabs/go-util"
+	util "github.com/apremalal/go-util"
 )
 
 var (

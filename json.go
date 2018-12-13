@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/blendlabs/go-exception"
+	"github.com/apremalal/go-exception"
 )
 
 var (

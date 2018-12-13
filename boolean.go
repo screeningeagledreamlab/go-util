@@ -3,7 +3,7 @@ package util
 import (
 	"strings"
 
-	"github.com/blendlabs/go-exception"
+	"github.com/apremalal/go-exception"
 )
 
 var (

@@ -3,8 +3,8 @@ package collections
 import (
 	"testing"
 
-	"github.com/blendlabs/go-assert"
-	"github.com/blendlabs/go-util"
+	"github.com/apremalal/go-assert"
+	"github.com/apremalal/go-util"
 )
 
 func TestStringArray(t *testing.T) {

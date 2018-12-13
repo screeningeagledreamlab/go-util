@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/blendlabs/go-exception"
+	"github.com/apremalal/go-exception"
 )
 
 // WriteJSON writes an object to a response as json.

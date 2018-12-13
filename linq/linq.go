@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/blendlabs/go-util"
+	"github.com/apremalal/go-util"
 )
 
 // Predicate is a function that returns a boolean for an input.

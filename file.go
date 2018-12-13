@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/blendlabs/go-exception"
+	"github.com/apremalal/go-exception"
 )
 
 const (
