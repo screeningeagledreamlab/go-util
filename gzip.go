@@ -5,7 +5,7 @@ import (
 	"compress/gzip"
 	"io/ioutil"
 
-	exception "github.com/apremalal/go-exception"
+	exception "github.com/screeningeagledreamlab/go-exception"
 )
 
 var (

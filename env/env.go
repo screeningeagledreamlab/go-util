@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	util "github.com/apremalal/go-util"
+	util "github.com/screeningeagledreamlab/go-util"
 )
 
 var (

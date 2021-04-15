@@ -3,7 +3,7 @@ package util
 import (
 	"strconv"
 
-	exception "github.com/apremalal/go-exception"
+	exception "github.com/screeningeagledreamlab/go-exception"
 )
 
 // Parse contains utilities to parse strings.

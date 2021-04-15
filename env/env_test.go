@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	assert "github.com/apremalal/go-assert"
-	util "github.com/apremalal/go-util"
+	assert "github.com/screeningeagledreamlab/go-assert"
+	util "github.com/screeningeagledreamlab/go-util"
 )
 
 func TestNewVarsFromEnvironment(t *testing.T) {

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/apremalal/go-assert"
+	"github.com/screeningeagledreamlab/go-assert"
 )
 
 func TestGetIP(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/apremalal/go-exception"
+	"github.com/screeningeagledreamlab/go-exception"
 )
 
 var (
