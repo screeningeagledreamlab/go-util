@@ -3,7 +3,7 @@ package util
 import (
 	"testing"
 
-	"github.com/apremalal/go-assert"
+	"github.com/screeningeagledreamlab/go-assert"
 )
 
 func TestBitFlagCombine(t *testing.T) {

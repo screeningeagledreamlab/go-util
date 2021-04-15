@@ -3,7 +3,7 @@ package collections
 import (
 	"testing"
 
-	"github.com/apremalal/go-assert"
+	"github.com/screeningeagledreamlab/go-assert"
 )
 
 func TestSetOfInt(t *testing.T) {

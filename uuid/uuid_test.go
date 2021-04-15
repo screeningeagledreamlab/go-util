@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	assert "github.com/apremalal/go-assert"
+	assert "github.com/screeningeagledreamlab/go-assert"
 )
 
 func TestV4(t *testing.T) {

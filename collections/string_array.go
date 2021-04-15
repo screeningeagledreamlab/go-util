@@ -3,7 +3,7 @@ package collections
 import (
 	"strings"
 
-	"github.com/apremalal/go-util"
+	"github.com/screeningeagledreamlab/go-util"
 )
 
 // StringArray is a type alias for []string with some helper methods.

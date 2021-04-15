@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/apremalal/go-assert"
+	"github.com/screeningeagledreamlab/go-assert"
 )
 
 type KVP struct {

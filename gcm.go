@@ -6,7 +6,7 @@ import (
 	"crypto/rand"
 	"io"
 
-	exception "github.com/apremalal/go-exception"
+	exception "github.com/screeningeagledreamlab/go-exception"
 )
 
 // GCM is a namespace for gcm related utility functions

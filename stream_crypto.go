@@ -9,7 +9,7 @@ import (
 	"io"
 	"math/rand"
 
-	exception "github.com/apremalal/go-exception"
+	exception "github.com/screeningeagledreamlab/go-exception"
 )
 
 // EncryptedStream is metadata about an encrypted stream
